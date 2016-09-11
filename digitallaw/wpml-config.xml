@@ -1,0 +1,68 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">wpcf7_contact_form</custom-type>
+		<custom-type translate="1">tm_slide</custom-type>
+		<custom-type translate="1">tm_portfolio</custom-type>
+		<custom-type translate="1">tm_team_member</custom-type>
+		<custom-type translate="1">tm_testimonial</custom-type>
+		<custom-type translate="1">tm_client</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">tm_slide_group</taxonomy>
+		<taxonomy translate="1">tm_portfolio_category</taxonomy>
+		<taxonomy translate="1">tm_team_group</taxonomy>
+		<taxonomy translate="1">tm_testimonial_group</taxonomy>
+		<taxonomy translate="1">tm_client_group</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="translate">_thememount_page_options_subtitle</custom-field>
+		<custom-field action="translate">_thememount_page_options_title</custom-field>
+		<custom-field action="translate">_thememount_portfolio_data_clientname</custom-field>
+		<custom-field action="translate">_thememount_portfolio_data_linktext</custom-field>
+		<custom-field action="translate">_thememount_portfolio_data_skills</custom-field>
+		<custom-field action="translate">_thememount_portfolio_options_categorylist</custom-field>
+		<custom-field action="translate">_thememount_post_options_subtitle</custom-field>
+		<custom-field action="translate">_thememount_post_options_title</custom-field>
+		<custom-field action="translate">_thememount_slides_options_btntext</custom-field>
+		<custom-field action="translate">_thememount_slides_options_desc</custom-field>
+		<custom-field action="translate">_thememount_team_member_details_position</custom-field>
+		<custom-field action="translate">_thememount_testimonials_details_designation</custom-field>
+		<custom-field action="translate">_messages</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="digitallaw_theme_options">
+			<key name="topbarlefttext"/>
+			<key name="topbarrighttext"/>
+			<key name="adv_tbar_catarc"/>
+			<key name="adv_tbar_tagarc"/>
+			<key name="adv_tbar_postclassified"/>
+			<key name="adv_tbar_authorarc"/>
+			<key name="search_input"/>
+			<key name="header_right_content"/>
+			<key name="header_three_content"/>
+			<key name="footer_copyright_left"/>
+			<key name="blog_tbar_title"/>
+			<key name="blog_readmore_text"/>
+			<key name="team_before_title_text"/>
+			<key name="portfolio_project_details"/>
+			<key name="portfolio_description"/>
+			<key name="portfolio_related_title"/>
+			<key name="pf_details_date_title"/>
+			<key name="pf_details_line1_title"/>
+			<key name="pf_details_line2_title"/>
+			<key name="pf_details_line3_title"/>
+			<key name="pf_details_line4_title"/>
+			<key name="pf_details_line5_title"/>
+			<key name="pf_details_cat_title"/>
+			<key name="error404_big_text"/>
+			<key name="error404_medium_text"/>
+			<key name="searchnoresult"/>
+			<key name="uconstruction_html"/>
+			<key name="team_type_title"/>
+			<key name="team_group_title"/>
+			<key name="team_type_archive_title"/>
+			<key name="pf_type_title"/>
+			<key name="pf_cat_title"/>  
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,1 @@
+Thank you for buying DigitalLAW theme. If you have any question than please contact us via our official support system at http://support.thememount.com/

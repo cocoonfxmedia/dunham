@@ -1,0 +1,26 @@
+/*
+Theme Name:  DigitalLAW
+Theme URI:   http://digitallaw.thememountdemo.com/
+Author:      Theme Mount
+Author URI:  http://www.thememount.com/
+Description: Digital LAW theme is specially created for Attorney, Lawyer and Law Agency WordPress Theme
+Version:     2.1
+Text Domain: digitallaw
+Tags:        two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, featured-images, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+License:     This WordPress theme is comprised of two parts: (1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself.  You can read it here: http://wordpress.org/about/gpl/ (2) All other parts of the theme including, but not limited to the CSS code, images, and design are licensed according to the license purchased. Read about licensing details here: http://themeforest.net/licenses/regular_extended
+License URI: -
+*/
+
+/*
+ *  All the CSS code is in inc/main.css file
+ */
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+.alignleft {display: inline; float: left; margin-right: 15px;}
+.alignright {display: inline; float: right; margin-left: 15px;}
+.aligncenter {clear: both; display: block; margin-left: auto; margin-right: auto;}
+
+/* End of CSS file */
